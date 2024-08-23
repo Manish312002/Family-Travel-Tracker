@@ -20,7 +20,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/family-travel-tracker.git
+   git clone https://github.com/Manish312002/family-travel-tracker.git
    cd family-travel-tracker
 
 2. **Install Dependencies**
