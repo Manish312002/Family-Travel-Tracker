@@ -10,10 +10,10 @@
 
 ## Technologies
 
-- **Backend Framework**: Express.js
-- **Database**: PostgreSQL
-- **Template Engine**: EJS
-- **Middleware**: Body-parser
+- **Backend Framework**: Built using Node.js and Express for routing and server management.
+- **Database**: PostgreSQL is used for data storage, handling user information and visited countries.
+- **Template Engine**: EJS is used to render HTML views dynamically based on server-side data.
+- **Middleware**: Utilizes body-parser to handle URL-encoded form data and express.static to serve static files from a "public" directory.
 
 ## Setup
 
